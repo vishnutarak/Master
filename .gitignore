@@ -1,0 +1,19 @@
+venv/
+.idea/
+*__pycache__*
+*.zip
+*.class
+*.exe
+
+# Compiled python modules.
+*.pyc
+
+# Persisted models.
+*.pkl
+
+# Setuptools distribution folder.
+python/dist/
+python/build/
+
+# Python egg metadata, regenerated from source files by setuptools.
+python/*.egg-info
